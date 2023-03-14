@@ -80,7 +80,7 @@ header {
   height: 200px;
   flex-direction: column;
   gap: 5px;
-  align-items: flex-start;
+  align-items: center;
   color: #d67e34;
   height: 50px;
   width: 800px;
