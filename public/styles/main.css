@@ -76,17 +76,17 @@ header {
   display:flex;
   height:200px;
   flex-direction: column;
-  gap: 10px;
-  align-items: center;
-  background-color: black;
-  color: #d67e34;
+  gap: 5px;
+  align-items:flex-start;
+  color: #d67e34; 
 }
 
 .welcome{
   height: 50px ;
   width: 800px; 
-  font-size: 30px;
+  margin:200px;
 }
+
 .intro{
   display: flex;
   flex-direction: row; 
@@ -100,5 +100,4 @@ header {
   height: 280px;
   border: 2px solid red;
   background-color: aliceblue;
-  margin-top: 450px;
 }
